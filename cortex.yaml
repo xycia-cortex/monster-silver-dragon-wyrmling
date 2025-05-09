@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-silver-dragon-wyrmling
+  x-cortex-tag: monster-silver-dragon-wyrmling
+  x-cortex-custom-metadata:
+    alignment: chaotic-neutral
+    type: dragon
+    challenge_rating: 3
+    legendary: false
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-silver-dragon-wyrmling
+      alias: github-token-test
